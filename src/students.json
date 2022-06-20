@@ -1,0 +1,39 @@
+[{
+        "id": 1,
+        "name": "Ronald",
+        "lastname": "Pineda",
+        "info": "lorem insup",
+        "state": true,
+        "subjects": [{
+                "id": 4
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ronald",
+        "lastname": "Pineda",
+        "info": "lorem insup",
+        "state": true,
+        "subjects": []
+    },
+    {
+        "id": 3,
+        "name": "Ronald",
+        "lastname": "Pineda",
+        "info": "lorem insup",
+        "state": true,
+        "subjects": []
+    },
+    {
+        "id": 4,
+        "name": "Ronald",
+        "lastname": "Pineda",
+        "info": "lorem insup",
+        "state": true,
+        "subjects": []
+    }
+]

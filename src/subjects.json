@@ -1,0 +1,26 @@
+[{
+        "id": 7,
+        "name": "Ingles",
+        "information": "Lorem inmpup dolor"
+    },
+    {
+        "id": 0,
+        "name": "Matematicas",
+        "information": "Lorem inmpup dolor"
+    },
+    {
+        "id": 7,
+        "name": "Informatica",
+        "information": "Lorem inmpup dolor"
+    },
+    {
+        "id": 2,
+        "name": "Sociales",
+        "information": "Lorem inmpup dolor"
+    },
+    {
+        "id": 4,
+        "name": "Fisica",
+        "information": "Lorem inmpup dolor"
+    }
+]
